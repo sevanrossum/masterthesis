@@ -1,5 +1,5 @@
 # Masterthesis 
-In partial fulfilment of the requirements of the degree of Master of Science in Engineering and Policy Analysis.
+In partial fulfilment of the requirements of the degree of Master of Science in Engineering and Policy Analysis. The theory of the Habermasian public sphere is applied to Twitter, on the case study of palm oil.
 
 ## palm_oil.py
 Fill in your own access token, secret, consumer key & consumer secret and adapt the hashtag list & text list to the topics you are interested in.
